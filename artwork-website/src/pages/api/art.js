@@ -39,7 +39,7 @@ export default async function artApiHandler(req, res) {
         );
         results.push(response.data);
       } catch (error) {
-        console.log("ERROR", artwork?.id);
+        console.log("ERROR", artwork?.id, results);
       }
     }
   }
