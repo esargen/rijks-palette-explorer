@@ -33,7 +33,7 @@ const Colormenu = (props) => {
       <div className="flex flex-wrap w-full">
       {colorArray}
       </div>
-      <p className={"font-black p-2 my-2 w-56 text-center rounded-md"} style={{color:((tinycolor.isReadable(color, "#fff")) ? color : "black"), backgroundColor:((tinycolor.isReadable(color, "#fff")) ? "transparent " : color)}}>{color}</p>
+      <p className={"font-black p-2 my-2 w-56 text-center rounded-md"} style={{color:(((tinycolor.readability(color, "#fff")) >= 1.5) ? color : "black"), backgroundColor:(((tinycolor.readability(color, "#fff")) >= 1.5) ? "transparent " : color)}}>{color}</p>
       <button type="submit" style={{backgroundColor:color}} className="text-white p-2 text-bolded rounded-lg">Color me stoked!</button>
     </form>
 
