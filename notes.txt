@@ -1,0 +1,21 @@
+- inside both artwork-stuff and artwork-website
+  - run npm install for both folders
+
+- inside your artwork-stuff folder
+  - delete the dist folder and database.json
+  - update color palette
+  - npm run colors (check each image and match to color palette)
+  - npm run database (combine all json into a single file)
+- copy database.json into artwork-website/public/database.json
+- copy new color palette into artwork-website/public/userPalette.json
+
+- Styling!
+- More colors!
+- Fetch art by same artist (new serverless api file)
+- Link back to the museum page
+- Display title, descriptions, etc
+
+
+& setActive("active")
+
+"http://www.rijksmuseum.nl/nl/collectie/" + record.artObject.objectNumber

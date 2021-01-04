@@ -1,0 +1,23 @@
+{
+  "name": "artwork-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "colors": "node colors.js",
+    "database": "node buildDatabase.js"
+  },
+  "keywords": [],
+  "author": "John L. Armstrong IV",
+  "license": "ISC",
+  "dependencies": {
+    "colorthief": "^2.3.2",
+    "fast-glob": "^3.2.4",
+    "fast-xml-parser": "^3.17.6",
+    "fs-extra": "^9.0.1",
+    "is-url": "^1.2.4",
+    "nearest-color": "^0.4.4",
+    "node-vibrant": "^3.2.1-alpha.1",
+    "tinycolor2": "^1.4.2"
+  }
+}

@@ -1,0 +1,910 @@
+{
+  "OAI-PMH": {
+    "responseDate": "2020-12-31T14:55:25Z",
+    "request": "https://www.rijksmuseum.nl/api/oai/EROcUypi/",
+    "ListRecords": {
+      "record": [
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:BK-2009-255-1",
+            "oai:datestamp": "2020-02-07T16:07:03Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh6.ggpht.com/9J2P7y9y4eZ3T9Qwg9-qM2RZpOs2d9KB3KerFFEx9wc9Wsqb6OygA8xT3iYqGscas8hhdS8UizZzTyxP24kW5HOmcE2N=s0",
+                "",
+                "hoogte: 139,8 cm",
+                "breedte: 91,7 cm",
+                "diepte: 66,7 cm",
+                "hoogte: 84,7 cm",
+                "breedte: 91,7 cm",
+                "diepte: 66,4 cm",
+                "hoogte: 84,7 cm",
+                "breedte: 86,5 cm",
+                "diepte: 61,5 cm",
+                "hoogte: 139,8 cm",
+                "breedte: 91,7 cm",
+                "diepte: 66,7 cm",
+                "hoogte: 84,7 cm",
+                "breedte: 91,7 cm",
+                "diepte: 66,4 cm",
+                "hoogte: 84,7 cm",
+                "breedte: 86,5 cm",
+                "diepte: 61,5 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.478329",
+                "BK-2009-255-1"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1685 - ca.1690",
+                "1685 - ca.1690"
+              ],
+              "dc:title": "",
+              "dc:description": "Koffer op onderstel met sculpturale, aan antieke en renaissance-voorbeelden herinnerende vorm, versiering met première partie Boulle-marqueterie van koper en schildpad en verguld bronzen beslagen. Het onderstel is in de 19e eeuw vernieuwd. Onderdeel van een paar.",
+              "dc:creator": "meubelmaker:",
+              "dc:type": "",
+              "dc:subject": [
+                "Iconclasscode: 48A9831",
+                "Iconclasscode: 48A98211",
+                "Iconclasscode: 48A9821",
+                "Iconclasscode: 31AA221"
+              ],
+              "dc:coverage": "Paris\n      Parijs\n      http://vocab.getty.edu/tgn/7008038"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:NG-2010-39",
+            "oai:datestamp": "2020-08-10T08:59:57Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/no1ShVtI10X9AkEjGYFZKbW_adMGuJ2yaaRBA01WMAxe_ZAT_LH7vEdDfW2dUE_aa5V7cw-yer3Ol8e21IFkRHLTE5U=s0",
+                "",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.485539",
+                "NG-2010-39"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1820 - ca.1870",
+                "1820 - ca.1870"
+              ],
+              "dc:title": "schilderij",
+              "dc:description": "Portret van een Javaanse hoffunctionaris ten voeten uit. De man draagt Javaanse kleding en daarbij een westers of op het westen geïnspireerd jasje en een Balinese kris op de rug. Met effen achtergrond en een eenvoudige tegelvloer.",
+              "dc:creator": "schilder: anoniem",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 61B111",
+                "Iconclasscode: 44B116",
+                "Iconclasscode: 45C13",
+                "Iconclasscode: 44B152",
+                "portrait",
+                "overzeese geschiedenis",
+                "Mengcultuur"
+              ],
+              "dc:coverage": "Java\n      Java\n      RM0001.THESAU.29132\n      ?"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:NG-2010-40",
+            "oai:datestamp": "2020-08-10T09:00:36Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/VbIZ0F-lW54ZlHf6qLx-wroa79BlN3mZfy581QHrNXG5_iqyQGEI_CYsjg0IIzH_EHZcWpdCKw61s7fSwO-y4tAXnd4=s0",
+                "",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.485540",
+                "NG-2010-40"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1820 - ca.1870",
+                "1820 - ca.1870"
+              ],
+              "dc:title": "schilderij",
+              "dc:description": "Portret van een Javaanse hoffunctionaris ten voeten uit. De man draagt Javaanse kleding en daarbij een westers of op het westen geïnspireerd jasje en een Balinese kris op de rug. Met effen achtergrond en een eenvoudige tegelvloer.",
+              "dc:creator": "schilder: anoniem",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 61B111",
+                "Iconclasscode: 44B116",
+                "Iconclasscode: 45C13",
+                "Iconclasscode: 44B152",
+                "portrait",
+                "overzeese geschiedenis",
+                "Mengcultuur"
+              ],
+              "dc:coverage": "Java\n      Java\n      RM0001.THESAU.29132\n      ?"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:NG-2010-37",
+            "oai:datestamp": "2020-08-10T08:59:17Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/E9pbUweicSThUFBXpATvlWlzEFp4kW4eibMjhZ91a9cKjTnloUd0Uu6M5VsVahCHo0bqyM9Y3GlrMFBfZ9Wth-KCj7U=s0",
+                "",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.485537",
+                "NG-2010-37"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1820 - ca.1870",
+                "1820 - ca.1870"
+              ],
+              "dc:title": "schilderij",
+              "dc:description": "Portret van een Javaanse hoffunctionaris ten voeten uit. De man draagt Javaanse kleding en een kris op de rug. Met effen achtergrond en een eenvoudige tegelvloer.",
+              "dc:creator": "schilder: anoniem",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 61B111",
+                "Iconclasscode: 44B116",
+                "Iconclasscode: 45C13",
+                "Iconclasscode: 44B152",
+                "portrait",
+                "overzeese geschiedenis",
+                "Mengcultuur"
+              ],
+              "dc:coverage": "Java\n      Java\n      RM0001.THESAU.29132\n      ?"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:NG-2010-38",
+            "oai:datestamp": "2020-08-10T08:59:35Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/LJf9SNzex16Ys5zXCeSKPNE2VQ_e07VycGOg2Jkqocyg9buNsXUpggljjnWSiUqVDxCstUKG1ZmYdSAA_hchAq1oQ-wq=s0",
+                "",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.485538",
+                "NG-2010-38"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1820 - ca.1870",
+                "1820 - ca.1870"
+              ],
+              "dc:title": "schilderij",
+              "dc:description": "Portret van een Javaanse hoffunctionaris ten voeten uit. De man draagt Javaanse kleding en daarbij een westers of op het westen geïnspireerd jasje en een kris op de rug. Met effen achtergrond en een eenvoudige tegelvloer.",
+              "dc:creator": "schilder: anoniem",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 61B111",
+                "Iconclasscode: 44B116",
+                "Iconclasscode: 45C13",
+                "Iconclasscode: 44B152",
+                "portrait",
+                "overzeese geschiedenis",
+                "Mengcultuur"
+              ],
+              "dc:coverage": "Java\n      Java\n      RM0001.THESAU.29132\n      ?"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:NG-2010-41",
+            "oai:datestamp": "2020-08-10T09:00:52Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/BVWIJD6Qt5cOtWyhfzbMr8jV_Ap9G2TBuJPoQxSyOqg39tv3KSKFGRi_T6pmlmJImdTjGHLiYmnIzgSOnmQuWl51zJY=s0",
+                "",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5",
+                "hoogte: 196,8 cm",
+                "breedte: 74,3 cm",
+                "diepte: 4,5"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.485541",
+                "NG-2010-41"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1820 - ca.1870",
+                "1820 - ca.1870"
+              ],
+              "dc:title": "schilderij",
+              "dc:description": "Portret van een Javaanse hoffunctionaris ten voeten uit. De man draagt Javaanse kleding en een Balinese kris op de rug. Met effen achtergrond en een eenvoudige tegelvloer.",
+              "dc:creator": "schilder: anoniem",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 61B111",
+                "Iconclasscode: 44B116",
+                "Iconclasscode: 45C13",
+                "Iconclasscode: 44B152",
+                "portrait",
+                "overzeese geschiedenis",
+                "Mengcultuur"
+              ],
+              "dc:coverage": "Java\n      Java\n      RM0001.THESAU.29132\n      ?"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:NG-2005-24",
+            "oai:datestamp": "2020-09-22T14:02:22Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh6.ggpht.com/7OHEXw0f2ysa_4r7k9Z0ejcr0AmsuTIm7VNZm9413kTTr_ReCXj_LfTBZVUDxV-ZE4qM0JVZVBdYj0zPhsWPmz1Hu4s=s0",
+                "",
+                "hoogte: 61 cm",
+                "breedte: 69,8 cm",
+                "diepte: 17,1 cm",
+                "diepte: 21,3 cm",
+                "hoogte: 50,5 cm",
+                "breedte: 59,4 cm",
+                "hoogte: 61 cm",
+                "breedte: 69,8 cm",
+                "diepte: 17,1 cm",
+                "diepte: 21,3 cm",
+                "hoogte: 50,5 cm",
+                "breedte: 59,4 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.431291",
+                "NG-2005-24"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1830,
+                1830
+              ],
+              "dc:title": "",
+              "dc:description": "De houten kast heeft een oplopende bodem en van binnen een gebogen achter- en bovenzijde. De achterwand is beplakt met beschilderd papier met een bos en een blauwe lucht met witte wolken. Ook de binnenzijde van de zijkanten zijn voorzien van blauw met witte wolken. De plastische voorstelling bestaat uit een kleine hut links op de achtergrond en centraal een grote hut met dansende figuren. De voorstelling stelt een opvoering van een du voor. Deze (dans)gemeenschappen hielden enkele keren per jaar een feest, waarbij voorstellingen werden gegeven die vaak een maatschappijkritische lading hadden. In de stad waren verschillende du's, die met elkaar wedijverden om de mooiste voorstelling te geven. Schouten heeft een feest op een plantage weergegeven. De danstent is gebouwd van vier staanders aan weerszijden verbonden door vijf horizontale balken. De zijden van de hut zijn open. Achterin staat een soort balustrade die de ruimte afscheidt van de buitenruimte met de slavenerven. Het schuine dak van pina-blad steunt op balken die vanaf de dwarsbalken zijn opgericht. In de hut is zodoende een grote open ruimte. Links vier mannelijke muzikanten. De eerste is een man die een fluit bespeelt, de loango tou-tou. Hij draagt een lichtgekleurd en gestreept kleed. Rechts van hem een man die een grote trom bespeelt, gelijk de man schuin achter hem. De vierde muzikant zit op een kruk en bespeelt met twee stokken een kwakwabangi. Centraal in de voorstelling dansen drie vrouwen en een man. De vrouw het dichtst bij de muzikanten is waarschijnlijk de afrankeer, de vertelster die de voorstelling aan het publiek verklaart. Zij was de centrale figuur van de du (=gezelschap en het stuk). Het vervullen van de rol van afrankeer was eervol en geliefd. De afrankeer is gekleed in een lange geplooide rok, waarover zij nog een doek (pangi)  heeft gedrapeerd. Zij draagt een hoofddoek. Zij draagt armbanden, halskettingen en oorbellen. In haar handen houdt ze een doek. Rechts van de afrankeer dansen twee vrouwen die op een vergelijkbare wijze zijn gekleed, al wijken de decoratiemotieven van de doeken af. Rechts van de vrouwen danst een man, eveneens met een doek in zijn handen. Geheel rechts is een groep van drie mannen te zien. Op een bank zit een man die bij de dansers lijkt te horen. Staand een man in een kostuum dat bestaat uit een rode broek en een rode langpandige jas, een wit hemd, witte kousen en zwarte schoenen. Hij is de enige figuur die schoenen draagt. In zijn linkerhand houdt hij een stok met een zilveren knop. In de andere hand houdt hij een zakdoek. Voor hem op de grond staan een stenen kruik, een glazen fles en een glas. Deze figuur speelde waarschijnlijk de rol van koning of in elk geval van een gezagsdrager. Deze rode kapiteinsrok is waarschijnlijk een exemplaar dat door de Nederlandse regering aan de gezagsdragers in het binnenland werd geschonken en dat symbool is geworden voor het gezag. Naast de 'koning' staat een jager. Hij draagt een bruin hemd met lange mouwen. Een weitas met een lange riem hangt om zijn schouder en over de schouder ligt een geweer dat hij met een hand vasthoudt. In de andere hand houdt hij een lang mes. Achter hem staat een bankje.",
+              "dc:creator": "vervaardiger:",
+              "dc:type": "",
+              "dc:subject": [
+                "Iconclasscode: 43C94",
+                "Iconclasscode: 46A18",
+                "Iconclasscode: 48C753",
+                "Iconclasscode: 43C114",
+                "overzeese geschiedenis",
+                "sociale geschiedenis",
+                "slavernij",
+                "plantage",
+                "feest"
+              ],
+              "dc:coverage": "Suriname\n      Suriname\n      RM0001.THESAU.26124"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:BK-1976-49",
+            "oai:datestamp": "2020-06-05T16:03:07Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh5.ggpht.com/JwylZ_KWfi94m0rN3fiO_2CcLReW8JhnB65FyBtJN6yvxL6Pe6pXyfGUB2Pwj6l74XQ0Oi3gMWFhMGr7bv6W21vUjTc=s0",
+                "ongebakken klei, olieverf",
+                "hoogte: 36,5 cm",
+                "breedte: 31,5 cm",
+                "diepte: 20,0 cm",
+                "breedte: 23,0 cm",
+                "diepte: 20,0 cm",
+                "hoogte: 36,5 cm",
+                "breedte: 31,5 cm",
+                "diepte: 20,0 cm",
+                "breedte: 23,0 cm",
+                "diepte: 20,0 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.25723",
+                "BK-1976-49"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1770,
+                1770
+              ],
+              "dc:title": "Nederlandse koopman, wellicht Andreas Everardus van Braam Houckgeest",
+              "dc:description": "Beeld van een man zittende op een grillige gevormde rots. Zijn rechterhand is in zijn vest gestoken en zijn hoed ligt naast hem. Gemaakt van ongebakken klei en in detail geschilderd met olieverf. Het hoofd is separaat gemodelleerd en met een bamboestokje los op het lichaam gezet.",
+              "dc:creator": "beeldhouwer:",
+              "dc:type": "beeld",
+              "dc:subject": [
+                "Iconclasscode: 31A235",
+                "Iconclasscode: 61B2",
+                "Iconclasscode: 41D221(HAT)(+81)",
+                "Verenigde Oostindische Compagnie",
+                "Braam Houckgeest, Andreas Everardus van (1739-11-01 - 1801-07-08)",
+                "overzeese geschiedenis"
+              ],
+              "dc:coverage": "Kanton\n      http://vocab.getty.edu/tgn/7018040"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:SK-A-1065",
+            "oai:datestamp": "2019-01-21T22:12:56Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/d93z-O9gU4_rApm0gQ3HXebvvobvSO1u30MHe_vQ2P37QlXcmFlQs8eE93qGRpX0rS1zJ41GDdCkyb5juDNZXtN-Kg=s0",
+                "olieverf op doek",
+                "hoogte: 147 cm",
+                "breedte: 121 cm",
+                "hoogte: 147 cm",
+                "breedte: 121 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.7128",
+                "SK-A-1065"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1813,
+                1813
+              ],
+              "dc:title": "Het gestoorde pianospel",
+              "dc:description": "Het gestoorde pianospel. Twee jongens vallen hun zusje tijdens het pianospelen lastig. Het meisje draait zich op haar stoel om naar de jongens.",
+              "dc:creator": "schilder:",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 48C7333",
+                "Iconclasscode: 42G222",
+                "Iconclasscode: 43C7",
+                "Iconclasscode: 41A721"
+              ]
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:BK-1963-64",
+            "oai:datestamp": "2020-05-12T15:41:41Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh5.ggpht.com/PF93ZLrsXKoUzyv5MGg1cgidCXnioYmTpZOgzwLz8VW9tdl6aDYE4cbp6GJPlu3rwF-MiaB4dHXdv3ReGHCiXrKLqaGz=s0",
+                "",
+                "hoogte: 51,2 cm",
+                "diameter: 27,2 cm",
+                "gewicht: 4900,0 gr",
+                "hoogte: 51,2 cm",
+                "diameter: 27,2 cm",
+                "gewicht: 4900,0 gr"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.16685",
+                "BK-1963-64"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1731 - 1732",
+                "1731 - 1732"
+              ],
+              "dc:title": "",
+              "dc:description": "De ronde, vaasvormige fontein heeft een kraan, twee oren met scharnierende hengsels en een los deksel. De voet rust met een hol profiel op de lage, rechtwandige basis. Hij is opgebouwd uit een bolle band en een ingesnoerd gedeelte, bekroond door een bolle en een ingesnoerde ring, waarop het lichaam rust. Op de voet zijn drie waaiermotieven opgelegd, die over de basis krullen, waar zij zijn versierd met een blad. Tussen deze grote motieven is steeds een kleiner schelpmotief opgelegd. Aan beide zijkanten is aan de basis een rechthoekig oog bevestigd. In de voet is onder de bodem van het lichaam een ring aan een oog bevestigd. Het lichaam heeft een lage, bolle buik waarop een hoog, iets ingesnoerd, zich verbredend gedeelte rust, dat aan onder- en bovenzijde wordt afgesloten door een verbreed, hol profiel en dat wordt bekroond door een brede, bolle rand waarboven een S-vormig gewelfd en een ingesnoerd gedeelte en de bolle mondrand. De gebogen kraan is vierzijdig, met afgeschuinde hoeken, en heeft een aanzet van vier opkrullende lipjes. Bij het uiteinde, waar een profielrand rondom loopt, is hij aan bovenzijde en zijkanten versierd met opkrullende lipjes. In het midden heeft hij een cubische verbreding, waarin het draaiende kraantje past. Dit heeft een greep in de vorm van een symmetrische, open cartouche, opgebouwd uit met profielen en bladeren versierde S-voluten en bekroond door een opstaande culot op een geprofileerd voetstukje. Aan de onderzijde wordt het afgesloten door een tolvorm. De uit C- en S-voluten opgebouwde oren en de uitsluitend uit C-voluten opgebouwde hengsels zijn versierd met bladvoluten en opkrullende lipjes. De oren hebben verdiepte, geruwde zijkanten; de hengsels hebben afgeschuinde hoeken. De buik vertoont aan de voorzijde, rond de aanzet van de kraan, een ovaal veld met langs de zijkanten en de onderzijde een omlijsting van schelpen met aan beide zijden een vis en rechts tevens een slang. In het veld is gegraveerd Anno 1732. De CompS: Scheepen Purmerlust en ter Horst, inden/ Jaare 1730. door Vier Rovers tot Algiers op gebragt en door de /Loffelyke Conduiters van de Heer Capt. Cornelis Schryver/als Commandr: van s' Lands Oorlog Scheepen, aldaar ter/Reede leggende. Wederom synde Vry gegeeven hebben/de heeren bewinthebbren der Nederl: Geoctro: O.I./Comp: voor deeze en andre Extraord: dienste aan/de Comp: gedaan. dit geschenk aan syn Ed: ter Erkentenis en gedagtenis Vereert. benevens/een Som van Vyf Duysend guldens. Aan de achterzijde is de buik versierd met enkele op elkaar geplaatste wapens en schilden, waarvan het bovenste een masker vertoont, temidden van lauriertakken. Op beide zijkanten zijn twee gevleugelde, blazende windgodjes in de wolken weergegeven. Het hoge bovengedeelte van het lichaam is rondom langs de onderzijde versierd met een zee. Aan de voorzijde is een hierin zwemmende dolfijn weergegeven, geflankeerd door op schelpen blazende tritonen, een krokodil, dolfijnen en een zeerob. De dolfijn draagt een gecontourneerd, geschubd schild met een met bladvoluten versierde, dooreengeslingerde rand, bekroond door een waaiermotief. Op het schild is een ovaal, door een profiel omlijst medaillon geplaatst met een varend zeilschip met een vaandel met het monogram VOC der Verenigde Oostindische Compagnie. Het schild wordt omgeven door een eenhoorn, olifanten, een kameel, een struisvogel tegen een achtergrond van palmen en een leeuw. Aan de achterzijde vaart een galjoen waarvoor op schelpen blazende tritonen uiteenwijken. Op het schip rust een geschubd schild, soortgelijk aan dat op de voorzijde maar eenvoudiger en gedeeltelijk versierd met lauriertakken. Het ovale medaillon vertoont het wapen Schrijver. Het schild wordt omgeven door affuiten, bolders, vaandels, trommels, zwaarden, schilden en een helm. De bolle band is versierd met vier onderling verschillende festoenen van schelpen, die op de hoeken met linten aan nagels zijn opgehangen, waarvan steeds een kleine tros van schelpen afhangt. Het ingesnoerde gedeelte onder de mondrand is opgelegd met vier rozetten. Het deksel is opgebouwd uit een bol en een hol gedeelte, bekroond door een podium met een gewelfde wand. Hierop rust de vierzijdige knop met afgeschuinde hoeken, opgebouwd uit een geprofileerde voet, een ronde, ingesnoerde stam en een bol, waarvan het onderste gedeelte als het ware verhuld is in opkrullende lipjes. Als bekroning dient een rond, geprofileerd, vaasvormig knopje. Het bolle gedeelte van het deksel vertoont vier opgelegde bladeren. De opgelegde versieringen, de kraan, de oren en hengsels en de dekselknop zijn gegoten; de reliëfs zijn gedreven.",
+              "dc:creator": "zilversmid:",
+              "dc:type": "",
+              "dc:subject": [
+                "Iconclasscode: 46C24",
+                "Iconclasscode: 48A9853",
+                "Iconclasscode: 92H391",
+                "Iconclasscode: 25F24(CAMEL)",
+                "Iconclasscode: 25F25(ELEPHANT)",
+                "Iconclasscode: 25F23(LION)",
+                "Iconclasscode: 25F38(OSTRICH)",
+                "Iconclasscode: 25FF241",
+                "Schrijver, Cornelis (1686 - 1768-05-16)",
+                "Verenigde Oostindische Compagnie"
+              ],
+              "dc:coverage": "Amsterdam\n      Amsterdam\n      RM0001.THESAU.41\n      \n        4.916667\n        52.35"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:SK-A-147",
+            "oai:datestamp": "2019-01-21T22:13:14Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/2XVzz6Nbh3oohR-NmDkVMkuGnPkYfClz7SSRBn5bgiE5KtJ8KqO8p1TdGh2sicrAGaGEGK294GnM0F-j9ZEPu3IRDQ=s0",
+                "olieverf op paneel",
+                "hoogte: 94 cm",
+                "hoogte: 117,5 cm",
+                "breedte: 70,5 cm",
+                "breedte: 96 cm",
+                "hoogte: 94 cm",
+                "hoogte: 117,5 cm",
+                "breedte: 70,5 cm",
+                "breedte: 96 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.8663",
+                "SK-A-147"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1642,
+                1642
+              ],
+              "dc:title": "Gerard Andriesz Bicker (1622-66), heer van Engelenburg. Drost van Muiden",
+              "dc:description": "Portret van Gerard Andriesz Bicker, heer van Engelenburg, drost van Muiden. Staand, ten halven lijve, handschoenen in de rechterhand, de linkerhand in de zij.",
+              "dc:creator": "schilder:",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 61B2",
+                "Iconclasscode: 41D225",
+                "Bicker, Gerard Andriesz. (1622 - 1666)"
+              ]
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:SK-A-742",
+            "oai:datestamp": "2020-08-11T12:52:35Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.ggpht.com/Yh48XePYndRUH9pBR-G986f-dKkg0IE9jFhJlt8y91fXB5X-d6IrRU-CW_Q7HLuHeeCRfYztK6LSqCFCjqeXniiVdUc=s0",
+                "olieverf op doek",
+                "hoogte: 107,5 cm",
+                "breedte: 172,5 cm",
+                "hoogte: 107,5 cm",
+                "breedte: 172,5 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.5088",
+                "SK-A-742"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1662,
+                1662
+              ],
+              "dc:title": "Gezicht op Olinda, Brazilië",
+              "dc:description": "Gezicht op Olinda in Brazilië. Links op een heuvel een groep mensen bij de ruïne van de kerk. Op de voorgrond tropische planten, vruchten en dieren (armadillo, aap, luiaard, miereneter, hagedis).",
+              "dc:creator": "schilder: Post, Frans Jansz.",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 25K",
+                "Iconclasscode: 25I9",
+                "Iconclasscode: 11Q712",
+                "Iconclasscode: 25F29(ARMADILLO)",
+                "Iconclasscode: 25F22",
+                "Iconclasscode: 25F41(LIZARD)"
+              ]
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:SK-A-2005",
+            "oai:datestamp": "2019-01-21T22:12:39Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/9M3g8xP5N1DEBEJbbeaz8ZXiWHHSGdz2w1REsrbZ3KZ75lT-JJf7G0STd_P6WWzVukQI1gv_4NzvFcP92MZKMjEJd1I=s0",
+                "olieverf op doek",
+                "hoogte: 38,5 cm",
+                "breedte: 53 cm",
+                "gewicht: 2,6 kg",
+                "hoogte: 38,5 cm",
+                "breedte: 53 cm",
+                "gewicht: 2,6 kg"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.5678",
+                "SK-A-2005"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1720 - ca.1737",
+                "1720 - ca.1737"
+              ],
+              "dc:title": "schilderij",
+              "dc:description": "Een kleurrijke groep vrouwen volgt een moeder die haar dochter voor het eerst naar school brengt. Voor hen uit loopt een man die het borduurraam van het meisje draagt. Borduren was samen met naaien en muziek maken een zeer geliefd tijdverdrijf voor Turkse vrouwen in gegoede kringen, die voor de dagelijkse huishoudelijke taken vele slaven hadden.",
+              "dc:creator": "schilder:",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 49B211",
+                "Iconclasscode: 42B7422",
+                "Iconclasscode: 32B33(TURKS)(+3)",
+                "Iconclasscode: 41D443(+4)",
+                "politieke geschiedenis"
+              ]
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:SK-A-3011",
+            "oai:datestamp": "2020-11-17T12:42:44Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/nBs6tVR7xKfYtEUzBZ6q6ToQQscGDHRiZT2vw7-6RVVqpFrlb6aUebKiEgRwwtktSm3Fm0rePhMWb9I7wJj3ChJnwHY=s0",
+                "tempera op paneel",
+                "hoogte: 74 cm",
+                "breedte: 52 cm",
+                "hoogte: 74 cm",
+                "breedte: 52 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.5784",
+                "SK-A-3011"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1440,
+                1440
+              ],
+              "dc:title": "Madonna van de nederigheid",
+              "dc:description": "Madonna met lelie. Zittende Maria met een lelie in haar rechterhand, de linkerarm om de benen van het Christuskind staande op haar schoot.",
+              "dc:creator": "schilder:",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 11F4221",
+                "Iconclasscode: 11F43131",
+                "Iconclasscode: 11F11",
+                "Iconclasscode: 25G41(LILY)"
+              ],
+              "dc:coverage": "Florence\n      RM0001.THESAU.6328"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:SK-A-4688",
+            "oai:datestamp": "2020-03-05T14:55:22Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh3.googleusercontent.com/aqXgCqxvgXItt7Puc22OF8vbuuSGLiI8xUphPF3Jn_VWFBOcLwR96hBC4aRqAVxd_kGy6G-D2y8vRrTJOTbzcSMisc8=s0",
+                "olieverf op doek",
+                "hoogte: 101,5 cm",
+                "breedte: 138,5 cm",
+                "hoogte: 101,5 cm",
+                "breedte: 138,5 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.6477",
+                "SK-A-4688"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1807,
+                1807
+              ],
+              "dc:title": "Italiaans landschap met parasoldennen",
+              "dc:description": "Italiaans landschap met parasoldennen of pijnbomen in de tuin van de Villa Borghese te Rome. Op de achtergrond de Villa Giulia en de Monte Mario.",
+              "dc:creator": "schilder:",
+              "dc:type": "schilderij",
+              "dc:subject": [
+                "Iconclasscode: 25G3(PINE)",
+                "Iconclasscode: 25H1"
+              ],
+              "dc:coverage": "Rome\n      Rome\n      RM0001.THESAU.6339"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:BK-1963-65",
+            "oai:datestamp": "2020-05-12T15:41:41Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh4.ggpht.com/ScrHeqRqxqkOmzkOkgiG3JgSiKAiW7PyNXzq8XJ7FneW3ijbe-bL-KODOyNO0uIvP_e4hJsa_SxIUqqjWbYNptXEMg=s0",
+                "",
+                "hoogte: 23,0 cm",
+                "breedte: 43,4 cm",
+                "diepte: 35,7 cm",
+                "gewicht: 4520,0 gr",
+                "hoogte: 23,0 cm",
+                "breedte: 43,4 cm",
+                "diepte: 35,7 cm",
+                "gewicht: 4520,0 gr"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.16686",
+                "BK-1963-65"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1731,
+                1731
+              ],
+              "dc:title": "",
+              "dc:description": "Het ovale koelvat heeft twee oren met scharnierende hengsels. De voet rust met een hol profiel op de lage, rechtwandige basis. Hij is opgebouwd uit een bolle band en een ingesnoerd gedeelte waarop het vat rust. De band is rondom versierd met acht opgelegde motieven, afwisselend een culot en een schelp. Het vat bestaat uit een bolle buik en een iets verbreed, licht ingesnoerd bovengedeelte dat wijd uitloopt naar de geschulpte bovenrand die vier segmentvormige ingezwenkte gedeeltes heeft waarin glazen kunnen worden gehangen. Deze zijn door rechte stukken gescheiden van de opstaande lobben, brede aan de zijkanten en smalle aan voor- en achterkant. Langs de bovenrand is een profielrand opgelegd. De uit C- en S-voluten opgebouwde hengsels zijn versierd met bladvoluten en opkrullende lipjes. De oren hebben verdiepte, geruwde zijkanten; de hengsels hebben afgeschuinde hoeken. Aan de voorzijde van het vat zijn boven elkaar twee reliëfs opgelegd. Op het bovenste is tegen een achtergrond van vlaggen het gekroonde wapen van de Republiek weergegeven, geflankeerd door de letters AA (Admiraliteit van Amsterdam) en geplaatst voor twee gekruiste ankers, omgeven door een de Hollandse tuin symboliserend hek. Ter weerszijden zijn elkaar aanziende zeegoden met drietanden gezeten, leunend op affuiten. Bij de linker staat een globe en op de voorgrond liggen kanonskogels. Het onderste reliëf bestaat uit een ovaal, door een profielrand omgeven schild in een omlijsting van wapentuig: maliënkolders, helmen, schilden, geweren, knotsen, zwaarden, trompetten en trommels, en lauwertakken. Op het schild is gegraveerd Dit Koelvat is door het/Collegie ter Admiraliteyt te/Amsterdam residerende, aan den Capiteyn/Cornelis Schryver vereerd, in erkentenisse/vande veroveringe van het Zaleese/Roof Schip, op den 10 Augustus 1730.",
+              "dc:creator": "zilversmid:",
+              "dc:type": "",
+              "dc:subject": [
+                "Iconclasscode: 44A1",
+                "Iconclasscode: 92H391",
+                "Iconclasscode: 45L3111",
+                "Schrijver, Cornelis (1686 - 1768-05-16)",
+                "Admiraliteit van Amsterdam",
+                "maritieme geschiedenis",
+                "marine",
+                "zeeroof",
+                "Hollandse Tuin"
+              ],
+              "dc:coverage": "Amsterdam\n      Amsterdam\n      RM0001.THESAU.41\n      \n        4.916667\n        52.35"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:BK-NM-1315",
+            "oai:datestamp": "2019-07-01T16:29:47Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh5.ggpht.com/xsp3XhQMxPi-eR9q6_Th3MIEK0tKHnPK-7xfVNw5X0xL_n2rhHdmBYB2wQGOLk0Qwt5JnrIrw-Dj_65c-BTcgVnshDhf=s0",
+                "",
+                "hoogte: 180,0 cm",
+                "breedte: 95,0 cm",
+                "diepte: 87,0 cm",
+                "hoogte: 56,5 cm",
+                "breedte: 74,0 cm",
+                "diepte: 59,0 cm",
+                "hoogte: 180,0 cm",
+                "breedte: 95,0 cm",
+                "diepte: 87,0 cm",
+                "hoogte: 56,5 cm",
+                "breedte: 74,0 cm",
+                "diepte: 59,0 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.61694",
+                "BK-NM-1315"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                1747,
+                1747
+              ],
+              "dc:title": "",
+              "dc:description": "Stadhoudersstoel van notenhout, bekleed met groen fluweel. De hoge rug draagt een opzetstuk met de wapens van Zeeland, Holland en W.-Friesland. Op de rug is het wapen van Oranje-Nassau geborduurd; op het losse kussen de wapens van Holland, Zeeland en W.-Friesland. De stoel heeft gediend voor de stadhouder, wanneer deze in het Hof van Holland, Zeeland en W.-Friesland de zitting bijwoonde.",
+              "dc:creator": "meubelmaker:",
+              "dc:type": "",
+              "dc:subject": [
+                "Iconclasscode: 46A122",
+                "Hof van Holland",
+                "Hof van Zeeland",
+                "Hof van West-Friesland",
+                "rechtsgeschiedenis"
+              ],
+              "dc:coverage": "The Hague\n      Den Haag\n      http://vocab.getty.edu/tgn/7006810\n      \n        4.3\n        52.083333"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:BK-2009-255-2",
+            "oai:datestamp": "2020-02-07T16:07:42Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:format": [
+                "https://lh4.ggpht.com/hr2NvVMJ1_ER4X-LeyHDBOaKm4aorUB4HaXtrb8JoZwtqZb6xsCnvaBT9r4SQiKK5svwtR0JwQUcYjmqhw71Hx9wfc8=s0",
+                "",
+                "hoogte: 138,3 cm",
+                "breedte: 91,4 cm",
+                "diepte: 65,8 cm",
+                "hoogte: 83,6 cm",
+                "breedte: 91,4 cm",
+                "diepte: 65,8 cm",
+                "hoogte: 55,2 cm",
+                "breedte: 86 cm",
+                "diepte: 61 cm",
+                "hoogte: 138,3 cm",
+                "breedte: 91,4 cm",
+                "diepte: 65,8 cm",
+                "hoogte: 83,6 cm",
+                "breedte: 91,4 cm",
+                "diepte: 65,8 cm",
+                "hoogte: 55,2 cm",
+                "breedte: 86 cm",
+                "diepte: 61 cm"
+              ],
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.478337",
+                "BK-2009-255-2"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "dc:date": [
+                "1685 - ca.1690",
+                "1685 - ca.1690"
+              ],
+              "dc:title": "",
+              "dc:description": "Koffer op onderstel met sculpturale, aan antieke en renaissance-voorbeelden herinnerende vorm, versiering met contre-partie Boulle-marqueterie van koper en schildpad en verguld bronzen beslagen. Onderdeel van een paar.",
+              "dc:creator": "meubelmaker:",
+              "dc:type": "",
+              "dc:subject": [
+                "Iconclasscode: 48A9831",
+                "Iconclasscode: 48A98211",
+                "Iconclasscode: 48A9821",
+                "Iconclasscode: 31AA221"
+              ],
+              "dc:coverage": "Paris\n      Parijs\n      http://vocab.getty.edu/tgn/7008038"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:SK-A-5007",
+            "oai:datestamp": "2018-07-10T12:02:57Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.490695",
+                "SK-A-5007"
+              ],
+              "dc:format": [
+                "",
+                "hoogte: 113 cm",
+                "breedte: 85 cm",
+                "diepte: 14 cm",
+                "hoogte: 113 cm",
+                "breedte: 85 cm",
+                "diepte: 14 cm"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+              "dc:date": [
+                1963,
+                1963
+              ],
+              "dc:title": "",
+              "dc:description": "Staande rechthoekige vorm met afgeronde hoeken, naar het midden toe concaaf. De schotelvorm is opgebouwd uit driehoekige en trapezevormige stukjes kartonpapier die onregelmatig op elkaar aansluiten en/of overlappen en naar het midden toe convergeren. Het reliëf is gemonteerd op een aantal achterplaten en houten latten die samen een trapvormig geheel vormen en onlosmakelijk met elkaar verbonden zijn. Het geheel is monochroom wit geschilderd.",
+              "dc:creator": "schilder:",
+              "dc:type": "",
+              "dc:coverage": "Delft\n      Delft\n      http://vocab.getty.edu/tgn/7006804\n      \n        4.366667\n        52"
+            }
+          }
+        },
+        {
+          "oai:header": {
+            "oai:identifier": "oai:rijksmuseum.nl:BK-2008-4",
+            "oai:datestamp": "2020-12-16T12:29:44Z"
+          },
+          "oai:metadata": {
+            "oai_dc:dc": {
+              "dc:identifier": [
+                "http://hdl.handle.net/10934/RM0001.collect.454287",
+                "BK-2008-4"
+              ],
+              "dc:format": [
+                "",
+                "hoogte: 100 cm",
+                "breedte: 173 cm",
+                "breedte: 25,5 cm",
+                "lengte: 123,2 cm",
+                "lengte: 72,2 cm",
+                "dikte: 12,2 cm",
+                "gewicht: 241 kg",
+                "hoogte: 100 cm",
+                "breedte: 173 cm",
+                "breedte: 25,5 cm",
+                "lengte: 123,2 cm",
+                "lengte: 72,2 cm",
+                "dikte: 12,2 cm",
+                "gewicht: 241 kg"
+              ],
+              "dc:language": "Dutch",
+              "dc:publisher": "Rijksmuseum",
+              "dc:rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+              "dc:date": [
+                1964,
+                1964
+              ],
+              "dc:title": "Acht gestapelde balken",
+              "dc:description": "Acht gelijke balken, aaneengelast uit ijzeren platen. De balken steken, volgens een vaste ordening, om en om verder uit.",
+              "dc:creator": "beeldhouwer:",
+              "dc:type": ""
+            }
+          }
+        }
+      ],
+      "resumptionToken": "MXxvYWlfZGN8MjAxOS0wMi0yMVQwODo1Njo0MXx8MDAwMS0wMS0wMVQwMDowMDowMHxEWEYxWlhKNVFXNWtSbVYwWTJnQkFBQUFBQ1FaXzJNV1JqZHNabXhHWlRKU1VGTjFObkJvT1RRelZuSjVRUT09fDEyMA=="
+    }
+  }
+}

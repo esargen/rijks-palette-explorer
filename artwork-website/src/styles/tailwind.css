@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+main {
+  border-left: 18px solid pink;
+  border-top: 18px solid pink;
+}
+
+.color:hover {
+  transform: scale(1.25);
+  box-shadow: -2pt 2pt 1pt gray;
+  transition: .25s ease;
+}
+
+.color:active {
+  border: 3pt solid black;
+}
+
+.artobject {
+  opacity: 0.9;
+  transition: .25s ease;
+  position: relative;
+  z-index:1;
+  flex: 30%;
+  min-height: 15vh;
+  max-height: 15vh;
+  padding: 10px auto;
+  object-fit: cover;
+  overflow: hidden;
+  margin:auto;
+
+}
+.artobject:hover {
+  opacity: 1;
+  transition: .5s ease;
+  z-index: 2;
+  box-shadow: -3pt 3pt 4pt rgba(0, 0, 0, 0.25);
+  max-height: 100vh;
+}
+
+.header {
+  font-size: 72pt;
+  font-weight: black;
+}
+
+button {
+  transition: .125s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: .25s ease;
+  box-shadow: -2pt 2pt 1pt lightgray;
+
+}
+
+.palettecolor {
+  color: transparent;
+  transition: .125s ease;
+  display: flex;
+  align-items: center;
+}
+
+.palettecolor p {
+  text-align: center;
+  margin: auto;
+  font-size: 8pt;
+  font-weight: bold;
+}
+
+.palettecolor:hover {
+  color: white;
+  transform: scale(1.25);
+  transition: .25s ease;
+}
