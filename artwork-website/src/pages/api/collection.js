@@ -24,16 +24,16 @@ export default async function artApiHandler2(req, res) {
 
 }
 
-// export function isProduction() {
-//   // check for `now dev` environment first
-//   // because `now dev` sets AWS_LAMBDA_FUNCTION_NAME
-//   if (process.env.NOW_REGION === "dev1") return false;
-//
-//   return Boolean(process.env.AWS_LAMBDA_FUNCTION_NAME);
-// }
-//
-// export function getServerUrl() {
-//   return isProduction()
-//     ? `https://${process.env.VERCEL_URL}`
-//     : `http://localhost:3000`;
-// }
+export function isProduction() {
+  // check for `now dev` environment first
+  // because `now dev` sets AWS_LAMBDA_FUNCTION_NAME
+  if (process.env.NOW_REGION === "dev1") return false;
+
+  return Boolean(process.env.AWS_LAMBDA_FUNCTION_NAME);
+}
+
+export function getServerUrl() {
+  return isProduction()
+    ? `https://${process.env.VERCEL_URL}`
+    : `http://localhost:3000`;
+}
