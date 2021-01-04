@@ -34,6 +34,6 @@ export function isProduction() {
 
 export function getServerUrl() {
   return isProduction()
-    ? `https://https://rijks-palette-explorer-1496tftaj.vercel.app/`
+    ? `https://${process.env.VERCEL_URL}`
     : `http://localhost:3000`;
 }
