@@ -60,6 +60,6 @@ export function isProduction() {
 
 export function getServerUrl() {
   return isProduction()
-    ? (window.location.protocol + "//" + window.location.host)
+    ? `https://rijks-palette-explorer.vercel.app`
     : `http://localhost:3000`;
 }
