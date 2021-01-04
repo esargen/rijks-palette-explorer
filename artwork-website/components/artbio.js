@@ -37,7 +37,8 @@ const Artbio = (props) => {
           <img className="h-screen mx-auto max-w-screen-lg" src={artselect?.data.webImage.url} />
         </div>
         <div className="bg-white p-14 border-black w-full h-auto md:w-4/12 md:h-full shadow-xl relative z-10 overflow-hidden">
-          <div className="mt-36">
+          <div className="">
+            <p className="text-md text-gray-500 h-36 my-14">{artselect?.data.plaqueDescriptionEnglish}</p>
             <div className="flex flex-wrap mb-8 max-w-8/12">
             {artselect?.data.colors.map((resultcolor, index) => (
               <div className="palettecolor w-14 h-8"style={{backgroundColor: resultcolor.hex}}>
@@ -45,9 +46,8 @@ const Artbio = (props) => {
               </div>
             ))}
             </div>
-            <h1 className="font-thin text-6xl mb-4 uppercase">{artselect?.data.title}</h1>
+            <h1 className={((artselect?.data.title.length > 50) ? "text-3xl " : "text-6xl ") + "font-thin mb-4 uppercase"}>{artselect?.data.title}</h1>
             <p className="text-md text-gray-300 mb-14 font-bold text-2xl lowercase">{artselect?.data.principalMaker}</p>
-            <p className="text-md text-gray-500">{artselect?.data.plaqueDescriptionEnglish}</p>
             <br />
             <a className="box-border g-white border-black border-2 rounded-sm p-2" target="blank_" href={"https://www.rijksmuseum.nl/nl/collectie/" + artselect?.data.objectNumber}>Learn more</a>
           </div>

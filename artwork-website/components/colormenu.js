@@ -19,16 +19,13 @@ const Colormenu = (props) => {
     ></button>)
     : ""
 
+
     const submitcolor = (event) => {
       event.preventDefault();
-      props.submit(color)
+      props.submit(color);
+      console.log(tinycolor.isReadable(color, "#fff"));
     }
 
-    function isItReadable(x, y) {
-      tinycolor.isReadable(x, y) == true ? "transparent"
-       : "gray";
-       console.log(x, y)
-    }
 
   return (
     <form className="max-w-lg max-h-screen items-center" onSubmit={submitcolor}>
@@ -36,7 +33,7 @@ const Colormenu = (props) => {
       <div className="flex flex-wrap w-full">
       {colorArray}
       </div>
-      <p style={{color:color, backgroundColor:() => {isItReadable(color, "#fff")}}} className="font-black p-5">{color}</p>
+      <p className={"font-black p-2 my-2 w-56 text-center rounded-md"} style={{color:((tinycolor.isReadable(color, "#fff")) ? color : "black"), backgroundColor:((tinycolor.isReadable(color, "#fff")) ? "transparent " : color)}}>{color}</p>
       <button type="submit" style={{backgroundColor:color}} className="text-white p-2 text-bolded rounded-lg">Color me stoked!</button>
     </form>
 
